@@ -1,0 +1,36 @@
+h1 {
+    font-family: poppins;
+    font-style:inherit;
+    font-weight: 5px;
+    color: #FFC0CB    ;
+}
+h4 {
+    font-family: poppins;
+    font-style: inherit;
+    font-weight: 3px;
+    color: #FFC0CB;
+}
+img {
+    width: 350px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow:0 6px 8px 0 rgba(2, 2, 2, 0.7);
+}
+body {
+    background-image: url("https://i.pinimg.com/originals/cf/35/6b/cf356be54197fb234aad164716a8f87e.gif");
+    background-size: cover;
+    color: #FFB6C1;
+}
+#kookfish {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+img:hover {
+    border-radius: 20px;
+}
+button {
+    color: #FFC0CB;
+    background-color: #FFF0F5;
+}
